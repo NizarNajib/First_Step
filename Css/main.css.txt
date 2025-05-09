@@ -5,9 +5,11 @@ I'm glad this was my begining and what would come next would be completely diffe
 
 Nice Greetings!
 Nizar Najib
+Nizar Neemah
 
 
 body {
    
    font-size: 20 px;
+   font-color: red;
 } 
