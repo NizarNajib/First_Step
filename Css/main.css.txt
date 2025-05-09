@@ -6,3 +6,8 @@ I'm glad this was my begining and what would come next would be completely diffe
 Nice Greetings!
 Nizar Najib
 
+
+body {
+   
+   font-size: 20 px;
+} 
